@@ -24,6 +24,7 @@ world_cup_matches = replace_spaces(world_cup_matches)
 
 # Removing countries that weren't in the world cup from all the GDP data
 index = gdp.country_name.isin(world_cup_matches.home_team) | gdp.country_name.isin(world_cup_matches.away_team)
+print(index)
 gdp = gdp[index]
 gdp.to_csv('Clean_Data/gdp.csv')
 
