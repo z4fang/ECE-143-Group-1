@@ -23,6 +23,7 @@ Insights for visualization: <br>
 Data regarding countries:
 - Geographical Heat map
 - Sector Chart <br>
+
 Data regarding correlation:
 - Scatter plot
 - Histogram (marginal histogram)
