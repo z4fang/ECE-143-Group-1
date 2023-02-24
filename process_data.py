@@ -6,7 +6,6 @@ def replace_spaces(csv):
     with underscores ('_') while also changing all of it to lower case. This is done to ensure uniformity
     for all column names as well as to allow for easy accessing of columns. Columns can be grabbed by simply
     doing df.attribute where attribute is the name of the columns
-
     :param: csv
     :type: pd.DataFrame
     '''
@@ -24,7 +23,6 @@ world_cup_matches = replace_spaces(world_cup_matches)
 
 # Removing countries that weren't in the world cup from all the GDP data
 index = gdp.country_name.isin(world_cup_matches.home_team) | gdp.country_name.isin(world_cup_matches.away_team)
-print(index)
 gdp = gdp[index]
 gdp.to_csv('Clean_Data/gdp.csv')
 
