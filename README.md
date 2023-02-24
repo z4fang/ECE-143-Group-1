@@ -22,7 +22,7 @@ Analysis Tasks (Brainstorming)
 Insights for visualization: 
 Data regarding countries:
 - Geographical Heat map
-- Sector Chart
+- Sector Chart <br>
 Data regarding correlation:
 - Scatter plot
 - Histogram (marginal histogram)
