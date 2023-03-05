@@ -5,7 +5,7 @@ Structural Tasks
 - Get all data into pandas dataframes
 
 Cleaning Tasks
-- Match players listed in Historical Data on Soccer Players with their world cup team (possible that some players may not be on world cup teams)
+- [x]Match players listed in Historical Data on Soccer Players with their world cup team (possible that some players may not be on world cup teams)
 - Filter countries found in World GDP to only countries found in world cup
 - Replace spaces in attribute names to underscores (‘_’) to make it easier for querying
 - Make sure that the country names are consistent e.g. some DataFrames label South Korea as Korea Republic
