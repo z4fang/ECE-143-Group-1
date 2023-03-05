@@ -11,6 +11,19 @@ Cleaning Tasks
 - Make sure that the country names are consistent e.g. some DataFrames label South Korea as Korea Republic :heavy_check_mark:
 - Drop player data columns that are not relevant (mostly ones that relate to on field subjects) (can be changed if needed) :heavy_check_mark:
 
+Cleaned Data:
+- all_world_cup_matches
+- all_world_cup_winners
+- countries_in_worldcup_18-22: contains all the countries in world cup from 2018 - 2022
+- gdp
+- gdp_growth
+- gdp_per_capita
+- gdp_per_capita_growth
+- gdp_ppp
+- gdp_ppp_per_capita
+- player: contains all the players that are in the team in world cup from 2018 - 2022
+
+
 Analysis Tasks (Brainstorming)
 - The number of times of each country that joins the world cup since 1930
 - The number of times of each country that makes it into the Round 16, Quarter-finals, Semi-finals, finals
