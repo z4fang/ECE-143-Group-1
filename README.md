@@ -5,11 +5,11 @@ Structural Tasks
 - Get all data into pandas dataframes
 
 Cleaning Tasks
-- [x] Match players listed in Historical Data on Soccer Players with their world cup team (possible that some players may not be on world cup teams)
-- Filter countries found in World GDP to only countries found in world cup
-- Replace spaces in attribute names to underscores (‘_’) to make it easier for querying
-- Make sure that the country names are consistent e.g. some DataFrames label South Korea as Korea Republic
-- Drop player data columns that are not relevant (mostly ones that relate to on field subjects) (can be changed if needed)
+- Match players listed in Historical Data on Soccer Players with their world cup team (possible that some players may not be on world cup teams) :heavy_check_mark:
+- Filter countries found in World GDP to only countries found in world cup :heavy_check_mark:
+- Replace spaces in attribute names to underscores (‘_’) to make it easier for querying :heavy_check_mark:
+- Make sure that the country names are consistent e.g. some DataFrames label South Korea as Korea Republic :heavy_check_mark:
+- Drop player data columns that are not relevant (mostly ones that relate to on field subjects) (can be changed if needed) :heavy_check_mark:
 
 Analysis Tasks (Brainstorming)
 - The number of times of each country that joins the world cup since 1930
