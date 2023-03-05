@@ -58,4 +58,4 @@ gdp_ppp.to_csv('Clean_Data/gdp_ppp.csv')
 world_cup_matches.to_csv('Clean_Data/all_world_cup_matches.csv')
 
 # Write world_cups into csv as all_world_cup_winners
-world_cup_matches.to_csv('Clean_Data/all_world_cup_winners.csv')
+world_cups.to_csv('Clean_Data/all_world_cup_winners.csv')

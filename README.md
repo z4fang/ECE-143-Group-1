@@ -12,17 +12,18 @@ Cleaning Tasks
 - Drop player data columns that are not relevant (mostly ones that relate to on field subjects) (can be changed if needed) :heavy_check_mark:
 
 Cleaned Data:
-- all_world_cup_matches
-- all_world_cup_winners
+- all_world_cup_matches: contains all world cup matches that have been played from 1930 to 2018
+- all_world_cup_winners: contains all world cup winners from 1930 to 2022
 - countries_in_worldcup_18-22: contains all the countries in world cup from 2018 - 2022
-- gdp
-- gdp_growth
-- gdp_per_capita
-- gdp_per_capita_growth
-- gdp_ppp
-- gdp_ppp_per_capita
+- gdp: contains all gdp per year from 1960 to 2020*
+- gdp_growth: contains all gdp growth per year from 1960 to 2020*
+- gdp_per_capita: contains all gdp per capita per year from 1960 to 2020*
+- gdp_per_capita_growth: contains all gdp per capita growth per year from 1960 to 2020*
+- gdp_ppp: contains all gdp ppp per year from 1960 to 2020*
+- gdp_ppp_per_capita: contains all gdp ppp per capita per year from 1960 to 2020*
 - player: contains all the players that are in the team in world cup from 2018 - 2022
 
+*(limited to only countries that have appeared in the world cup)
 
 Analysis Tasks (Brainstorming)
 - The number of times of each country that joins the world cup since 1930
