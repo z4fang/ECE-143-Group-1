@@ -22,6 +22,7 @@ Cleaned Data:
 - gdp_ppp: contains all gdp ppp per year from 1960 to 2020*
 - gdp_ppp_per_capita: contains all gdp ppp per capita per year from 1960 to 2020*
 - player: contains all the players that are in the team in world cup from 2018 - 2022
+- win_loss_goals_30_22: contains number of wining, losing, and goals of each team in each stage before 2022. 
 
 *(limited to only countries that have appeared in the world cup)
 
