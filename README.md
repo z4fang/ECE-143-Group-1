@@ -75,13 +75,13 @@ Data regarding countries:
 https://www.python-graph-gallery.com/
 
 ## Contributors
-### Data Acquistion/Cleaning
-Jean Gorby Calicdan
-Zhongkang Fang
-### Data Analysis
-Yiting Shi 
-Zhen Wang
-Puhung Li
+#### Data Acquistion/Cleaning
+- Jean Gorby Calicdan
+- Zhongkang Fang
+#### Data Analysis
+- Yiting Shi 
+- Zhen Wang
+- Puhung Li
 
 
 
