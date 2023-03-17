@@ -1,5 +1,6 @@
 # ECE_143_Group_1 FIFA World cup Data Analysis and Visualization
 
+The success of a team in the World Cup can be determined by various factors. Understanding these factors and how they impact the winning rate of a team is critical for fans, teams, media outlets, and stakeholders in the world of sports. In this project, we propose to analyze data from the World Cup, focusing on how various factors such as the representative country’s GDP, growth, etc. affect a team’s winning rate. 
 In the past there were many analysis done based on the game statistics. In our project we want to analyze not just the game statistics but also some other factors like GDP, Club wages, player age etc. 
 
 
@@ -32,7 +33,7 @@ In the past there were many analysis done based on the game statistics. In our p
 └── visualization.ipynb             # including all the code to generate plots for presentation
 ```
 
-
+```
 Analysis and Visulization
 - The number of times of each country that joins the world cup since 1930
 - The number of times of each country that makes it into the Round 16, Quarter-finals, Semi-finals, finals
@@ -43,7 +44,7 @@ Analysis and Visulization
 - The population of some countries v.s. their winning rate
 - Each countries’ national team players total wages v.s. Their winning rate
 - Analysis of 2022 world champion Argentina’s match games (The statistical number when Argentina meets high ranking teams v.s. lower ranking teams)
-
+```
 
 Insights for visualization: <br>
 Data regarding countries:
