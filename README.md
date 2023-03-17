@@ -5,7 +5,7 @@ In the past there were many analysis done based on the game statistics. In our p
 
 
 # File Structure
-
+```
 ├── Clean_Data
 │   ├── all_world_cup.csv
 │   ├──countries_in_worldcup_18-22.csv
@@ -30,7 +30,7 @@ In the past there were many analysis done based on the game statistics. In our p
 ├── player_data.ipynb               # player data cleaning
 ├── process_data.py                 # run this file will clean and save cleaned file in .csv
 └── visualization.ipynb             # including all the code to generate plots for presentation
-
+```
 - Clean_Data 
     - all_world_cup_matches.csv
     - all_world_cup_winners.csv
