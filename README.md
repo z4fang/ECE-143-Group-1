@@ -1,7 +1,11 @@
 # ECE_143_Group_1 FIFA World cup Data Analysis and Visualization
 
-  The success of a team in the World Cup can be determined by various factors. Understanding these factors and how they impact the winning rate of a team is critical for fans, teams, media outlets, and stakeholders in the world of sports. In this project, we propose to analyze data from the World Cup, focusing on how various factors such as the representative country’s GDP, growth, etc. affect a team’s winning rate. 
+
+
+The success of a team in the World Cup can be determined by various factors. Understanding these factors and how they impact the winning rate of a team is critical for fans, teams, media outlets, and stakeholders in the world of sports. In this project, we propose to analyze data from the World Cup, focusing on how various factors such as the representative country’s GDP, growth, etc. affect a team’s winning rate. 
  <br>
+ 
+ 
   In the past there were many analysis done based on the game statistics. In our project we want to analyze not just the game statistics but also some other factors like GDP, Club wages, player age etc. 
 
 
