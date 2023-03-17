@@ -3,13 +3,6 @@
 In the past there were many analysis done based on the game statistics. In our project we want to analyze not just the game statistics but also some other factors like GDP, Club wages, player age etc. 
 
 
-Third party modules used for data cleaning and data visualization
-- numpy 
-- pandas
-- matplotlib
-- seaborn
-- plotly
-
 
 File Structure
 - Clean_Data 
@@ -67,10 +60,29 @@ Data regarding countries:
 - Geographical Heat map
 - Sector Chart <br>
 
-Data regarding correlation:
+##Third party modules used for data cleaning and data visualization
+- numpy 
+- pandas
+- matplotlib
+- seaborn
+- plotly
+
+
+##Data regarding correlation:
 - Scatter plot
 - Histogram (marginal histogram)
 - Correllogram 
 https://www.python-graph-gallery.com/
+
+##Contributors
+###Data Acquistion/Cleaning
+Jean Gorby Calicdan
+Zhongkang Fang
+###Data Analysis
+Yiting Shi 
+Zhen Wang
+Puhung Li
+
+
 
 
