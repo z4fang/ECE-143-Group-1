@@ -1,5 +1,26 @@
 # ECE-143-Group-1
 
+
+Third party modules used for data cleaning and data visualization
+- numpy 
+- pandas
+- matplotlib
+- seaborn
+- plotly
+
+
+File Structure
+- Clean_Data 
+    - all_world_cup_matches.csv
+    - all_world_cup_winners.csv
+    - re-ordered win_loss_goals_30_22.csv
+    - FIFA_world_cup_matches.csv
+- 'visualization.ipynb' including all the code to generate plots for presentation
+- 'process_data.py' run this file will clean and save cleaned file in .csv
+
+
+
+
 Structural Tasks
 - Set up Github repository
 - Get all data into pandas dataframes
@@ -22,11 +43,12 @@ Cleaned Data:
 - gdp_ppp: contains all gdp ppp per year from 1960 to 2020*
 - gdp_ppp_per_capita: contains all gdp ppp per capita per year from 1960 to 2020*
 - player: contains all the players that are in the team in world cup from 2018 - 2022
-- win_loss_goals_30_22: contains number of wining, losing, and goals of each team in each stage before 2022. 
 
 *(limited to only countries that have appeared in the world cup)
 
-Analysis Tasks (Brainstorming)
+
+
+Analysis and Visulization
 - The number of times of each country that joins the world cup since 1930
 - The number of times of each country that makes it into the Round 16, Quarter-finals, Semi-finals, finals
 - The number of goals of each country
@@ -48,3 +70,5 @@ Data regarding correlation:
 - Histogram (marginal histogram)
 - Correllogram 
 https://www.python-graph-gallery.com/
+
+
