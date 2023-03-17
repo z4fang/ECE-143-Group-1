@@ -50,11 +50,6 @@ Analysis and Visulization
 - Analysis of 2022 world champion Argentina’s match games (The statistical number when Argentina meets high ranking teams v.s. lower ranking teams)
 ```
 
-Insights for visualization: <br>
-Data regarding countries:
-- Geographical Heat map
-- Sector Chart <br>
-
 ## Third party modules used for data cleaning and data visualization
 - numpy 
 - pandas
