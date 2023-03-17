@@ -1,9 +1,6 @@
 # ECE_143_Group_1 FIFA World cup Data Analysis and Visualization
-    The FIFA World Cup is one of the most prestigious international sporting events and attracts millions of fans from around the world. We are interested in how each country performed throughout each world cup. Understanding the statistics of each world cup allows us to discover how soccer developed in each country.
 
-    The success of a team in the World Cup can be determined by various factors. Understanding these factors and how they impact the winning rate of a team is critical for fans, teams, media outlets, and stakeholders in the world of sports. In this project, we propose to analyze data from the World Cup, focusing on how various factors such as the representative country’s GDP, growth, etc. affect a team’s winning rate. 
-
-    In the past there were many analysis done based on the game statistics. In our project we want to analyze not just the game statistics but also some other factors like GDP, Club wages, player age etc. 
+In the past there were many analysis done based on the game statistics. In our project we want to analyze not just the game statistics but also some other factors like GDP, Club wages, player age etc. 
 
 
 Third party modules used for data cleaning and data visualization
