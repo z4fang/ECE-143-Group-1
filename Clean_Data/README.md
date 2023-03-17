@@ -1,4 +1,4 @@
-- Clean_Data 
+# Clean_Data 
     - all_world_cup_matches.csv
     - all_world_cup_winners.csv
     - re-ordered win_loss_goals_30_22.csv
@@ -9,14 +9,14 @@
 
 
 
-Cleaning Tasks
+## Cleaning Tasks
 - Match players listed in Historical Data on Soccer Players with their world cup team (possible that some players may not be on world cup teams) :heavy_check_mark:
 - Filter countries found in World GDP to only countries found in world cup :heavy_check_mark:
 - Replace spaces in attribute names to underscores (‘_’) to make it easier for querying :heavy_check_mark:
 - Make sure that the country names are consistent e.g. some DataFrames label South Korea as Korea Republic :heavy_check_mark:
 - Drop player data columns that are not relevant (mostly ones that relate to on field subjects) (can be changed if needed) :heavy_check_mark:
 
-Cleaned Data:
+## Cleaned Data:
 - all_world_cup_matches: contains all world cup matches that have been played from 1930 to 2018
 - all_world_cup_winners: contains all world cup winners from 1930 to 2022
 - countries_in_worldcup_18-22: contains all the countries in world cup from 2018 - 2022
