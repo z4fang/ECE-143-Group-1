@@ -4,7 +4,33 @@ In the past there were many analysis done based on the game statistics. In our p
 
 
 
-File Structure
+# File Structure
+
+├── Clean_Data
+│   ├── all_world_cup.csv
+│   ├──countries_in_worldcup_18-22.csv
+│   ├── gdp.csv
+│   ├── ...    
+│   ├── player.csv
+│   └── win_loss_goals_30_22.csv
+├── Data
+│   ├── Player
+        ├── nationality.csv
+        ├── player_15.csv
+        ├── ...
+        ├── player_22.csv
+│   ├── 2022_world_cup_groups.csv
+│   ├──countries_in_worldcup_18-22.csv
+│   ├── gdp.csv
+│   ├── ...
+│   ├── world_cup_matches.csv
+│   ├── world_cups.csv
+├── ECE143_presentation_group1.pdf
+├── README.md
+├── player_data.ipynb               # player data cleaning
+├── process_data.py                 # run this file will clean and save cleaned file in .csv
+└── visualization.ipynb             # including all the code to generate plots for presentation
+
 - Clean_Data 
     - all_world_cup_matches.csv
     - all_world_cup_winners.csv
@@ -12,6 +38,7 @@ File Structure
     - FIFA_world_cup_matches.csv
 - 'visualization.ipynb' including all the code to generate plots for presentation
 - 'process_data.py' run this file will clean and save cleaned file in .csv
+
 
 
 
