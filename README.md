@@ -60,7 +60,7 @@ Data regarding countries:
 - Geographical Heat map
 - Sector Chart <br>
 
-##Third party modules used for data cleaning and data visualization
+## Third party modules used for data cleaning and data visualization
 - numpy 
 - pandas
 - matplotlib
@@ -68,17 +68,17 @@ Data regarding countries:
 - plotly
 
 
-##Data regarding correlation:
+## Data regarding correlation:
 - Scatter plot
 - Histogram (marginal histogram)
 - Correllogram 
 https://www.python-graph-gallery.com/
 
-##Contributors
-###Data Acquistion/Cleaning
+## Contributors
+### Data Acquistion/Cleaning
 Jean Gorby Calicdan
 Zhongkang Fang
-###Data Analysis
+### Data Analysis
 Yiting Shi 
 Zhen Wang
 Puhung Li
